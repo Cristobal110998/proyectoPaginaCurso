@@ -13,6 +13,7 @@ body {
   /*justify-content: center;*/
   /*align-items: center;*/
   background: #1d212b;
+  /*background-image: url('imagenes/fondo5.jpg');*/
   color: white;
 }
 
@@ -225,6 +226,13 @@ h1 {
 }
 
 /*----------------------------------------------------------------------------*/
+
+/*HACER MENU STICKY*/
+/*.contentMenu{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}*/
 
 i {
   margin-right: 10px;
