@@ -22,6 +22,15 @@ h1 {
   text-align: center;
 }
 
+table{
+  table-layout: fixed;
+}
+
+#miTablaPersonalizada{
+  width: auto;
+  overflow: auto;
+}
+
 .containerMovies {
   width: 100%;
   display: flex;
